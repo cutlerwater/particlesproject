@@ -43,7 +43,7 @@ const particlesMaterial = new THREE.PointsMaterial({
     size: 0.005,
     map: cross,
     transparent: true,
-    color: 'blue'
+    color: 'yellow'
     
 })
 
